@@ -90,7 +90,7 @@ java TicTacToe
 
 ## 📌 Author
 
-**Darshan JK**
+  **Darshan JK**
 
 ---
 
